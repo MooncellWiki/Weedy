@@ -1,5 +1,5 @@
 # Weedy
-Weedy**将**是一个~~基于[Mirai](https://github.com/mamoe/mirai)~~视情况选择框架的开源的明日方舟QQ机器人，是Weedy Project的一部分。  
+Weedy**将**是一个~~基于Mirai~~视情况选择框架的开源的明日方舟QQ机器人，是Weedy Project的一部分。  
 该项目包括：  
 - Weedy 
 - Weedy Server (提供接口以获取来自游戏服务器的数据)
