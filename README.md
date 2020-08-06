@@ -62,6 +62,10 @@ GET /shop/epgs
 GET /shop/lmtgs
 ```
 返回寻访数据契约（天井商店）内容。  
+```
+GET /shop/rep
+```
+返回情报凭证（复刻商店）内容。  
 #### 家具商店
 ```
 GET /shop/furni
