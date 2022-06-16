@@ -45,7 +45,7 @@ GET /crisis/today/internal
 ### 机密圣所（危机合约商店）
 
 ```
-GET /shop/cash
+GET /shop/crisis
 ```
 
 返回危机合约-机密圣所（危机合约商店）内容。  
