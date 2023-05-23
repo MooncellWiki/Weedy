@@ -25,6 +25,13 @@ GET /gacha/{poolId}
 
 ### 危机合约
 
+#### ACT38D1
+```
+GET /activity/act38d1
+```
+
+返回尖灭行动（ACT38D1）服务器数据。
+
 #### 当天的合约内容
 
 ```
